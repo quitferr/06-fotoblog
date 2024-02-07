@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto de galeria de fotos é desenvolvido no nível 03 do Explorer, o programa completo da Rocketseat que te leva do zero até sua primeira vaga como dev.
 
+- [Acesse o projeto finalizado, online](https://quitferr.github.io/07-fotoblog/)
 
 ## 🔖 Layout
 
